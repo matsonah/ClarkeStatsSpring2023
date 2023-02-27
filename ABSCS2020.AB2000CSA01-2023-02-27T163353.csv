@@ -1,0 +1,19 @@
+﻿Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS Code (NAICS2017_LABEL),Meaning of Sex code (SEX_LABEL),Meaning of Ethnicity code (ETH_GROUP_LABEL),Meaning of Race code (RACE_GROUP_LABEL),Meaning of Veteran code (VET_GROUP_LABEL),Year (YEAR),Number of employer firms (FIRMPDEMP),"Sales, value of shipments, or revenue of employer firms ($1,000) (RCPPDEMP)",Number of employees (EMP),"Annual payroll ($1,000) (PAYANN)",Relative standard error of employer firms (%) (FIRMPDEMP_S),Relative standard error of number of employees (%) (EMP_S),Relative standard error of annual payroll (%) (PAYANN_S)
+United States,21,"Mining, quarrying, and oil and gas extraction",Total,Total,Black or African American,Total,2020,52,L,208,"12,889",60,34.2,31.7
+United States,22,Utilities,Total,Total,Black or African American,Total,2020,34,R,301,"25,670",42.6,11,4.6
+United States,23,Construction,Total,Total,Black or African American,Total,2020,"10,330",W,"54,194","3,087,623",9.3,19.9,26.4
+United States,31-33,Manufacturing,Total,Total,Black or African American,Total,2020,"1,557",W,"24,025","1,059,778",6.6,14.4,16
+United States,42,Wholesale trade,Total,Total,Black or African American,Total,2020,"2,005",W,"10,846","575,792",17.9,15.2,13.6
+United States,44-45,Retail trade,Total,Total,Black or African American,Total,2020,"9,461",W,"61,713","1,598,512",8,20.9,19.4
+United States,48-49 (661),Transportation and warehousing (661),Total,Total,Black or African American,Total,2020,"9,581",W,"78,420","2,605,902",5,15.2,16.6
+United States,51,Information,Total,Total,Black or African American,Total,2020,"1,620",U,"11,079","858,093",11.2,9.7,7.6
+United States,52 (662),Finance and insurance (662),Total,Total,Black or African American,Total,2020,"4,414",U,"14,352","684,075",11.2,23.4,23.2
+United States,53,Real estate and rental and leasing,Total,Total,Black or African American,Total,2020,"6,055",U,"18,314","963,524",9.4,27.2,39.8
+United States,54,"Professional, scientific, and technical services",Total,Total,Black or African American,Total,2020,"19,575",W,"108,242","7,105,797",4.3,11.7,10.7
+United States,56,Administrative and support and waste management and remediation services,Total,Total,Black or African American,Total,2020,"12,743",W,"255,716","6,867,296",10.3,16.6,12.4
+United States,61,Educational services,Total,Total,Black or African American,Total,2020,"2,524",U,"16,955","394,264",24.4,38.3,29.8
+United States,62,Health care and social assistance,Total,Total,Black or African American,Total,2020,"38,819",W,"468,433","12,157,032",4.6,11.6,8.6
+United States,71,"Arts, entertainment, and recreation",Total,Total,Black or African American,Total,2020,"3,715",U,"9,035","906,679",19.3,24.9,23.4
+United States,72,Accommodation and food services,Total,Total,Black or African American,Total,2020,"8,435",W,"150,920","2,201,896",7.2,12.5,7.7
+United States,81 (663),Other services (except public administration) (663),Total,Total,Black or African American,Total,2020,"9,471",U,"32,429","897,883",9.3,18.6,22.2
+United States,99,Industries not classified,Total,Total,Black or African American,Total,2020,394,R,"2,523","55,577",9.9,11.1,9.5
